@@ -1,3 +1,6 @@
+![Simple Technology LinkedIn Banner](https://github.com/ajeet-007/ajeet-007/assets/92736625/dde77a5b-5031-4812-91bf-5db20ccfefb7)
+
+
 <h1 align="center">Hi 👋, I'm Ajeet Kumar</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
