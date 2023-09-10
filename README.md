@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently studying Computer Science at **Indian Institute of Technology and Management Gwalior**
 
-- 🌱 I’m currently learning **to collaborate a my skills to make something unique and efficient.**
+- 🌱 I’m currently learning **to collaborate my skills to make something unique and efficient.**
 
 - 📫 How to reach me **ajeetkumar5678k@gmail.com**
 
