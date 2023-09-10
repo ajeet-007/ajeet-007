@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi 👋, I'm Ajeet Kumar</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50e9dd4cd.gif">
+<img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50e9dd4cd.gif">
 
 <!--<p align="left"> <img src="https://github.com/ajeet-007/ajeet-007/assets/92736625/2068b304-fdf6-4eb3-9ed4-5905554710c1" alt="ajeet-007" /> </p>-->
 
