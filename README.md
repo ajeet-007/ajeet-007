@@ -4,11 +4,11 @@
 <h1 align="center">Hi 👋, I'm Ajeet Kumar</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<p align="left"> <img src="https://media0.giphy.com/media/LaVp0AyqR5bGsC5Cbm/200w.webp?cid=ecf05e47s403xhnwft1k1rezugtkbxzu41fx4rqiwlmh2qkp&ep=v1_gifs_search&rid=200w.webp&ct=g" alt="ajeet-007" /> </p>
+<!--<p align="left"> <img src="https://github.com/ajeet-007/ajeet-007/assets/92736625/2068b304-fdf6-4eb3-9ed4-5905554710c1" alt="ajeet-007" /> </p>-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajeet-007&label=Profile%20views&color=0e75b6&style=flat" alt="ajeet-007" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajeet-007" alt="ajeet-007" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajeet-007" alt="ajeet-007" /></a> </p>-->
 
 - 🔭 I’m currently studying Computer Science at **Indian Institute of Technology and Management Gwalior**
 
