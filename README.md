@@ -1,4 +1,5 @@
-![Simple Technology LinkedIn Banner (1)](https://github.com/ajeet-007/ajeet-007/assets/92736625/f2ec4e93-ba42-4bda-a022-41da68847fc2)
+![Simple Technology LinkedIn Banner (2)](https://github.com/ajeet-007/ajeet-007/assets/92736625/93c3fcc4-86b0-46e0-8d9a-6cff38f65523)
+
 
 
 
